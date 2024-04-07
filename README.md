@@ -108,7 +108,7 @@ Based on your Python code, here are the steps to set up your database and table 
 
 - **Skype:** [live:.cid.85ec2e63e4558292](skype:your_skype_id?chat) :calling:
 - **Upwork:** [M Hammad Rafique](https://upwork.com/freelancers/hammadr33) 
-- **Gmail:** [Python Developer 029](pythondeveloper029@gmail.com)  | [Coding Magician](codingmagician0@gmail.com)  :email:
+- **Gmail:** [Python Developer 029](mailto:pythondeveloper029@gmail.com)  | [Coding Magician](mailto:codingmagician0@gmail.com)  :email:
 
 ---
 
