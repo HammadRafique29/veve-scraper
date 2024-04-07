@@ -1,6 +1,6 @@
 ## Veve Assests Data Scraper:
  - VeVe is a marketplace for premium licensed digital collectibles. With VeVe, users can obtain limited edition or one-of-a-kind digital collectibles, showcase them in virtual showrooms as well as buy, sell or trade collectibles with other VeVe users.
-- We are going to scrap assests data from the veve including,
+- We are going to scrap assests data (USING PYTHON) from the veve including,
 
     - Name
     - Store Price
