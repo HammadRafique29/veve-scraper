@@ -7,8 +7,19 @@
     - Rarity
     - EditionType
     - Total Assests, 
-    - Avaiable Assests, 
+    - Avaiable Assests,
+    - Licence
+    - Brand
     - etc.
+
+
+![veve](https://github.com/HammadRafique29/veve-scraper/assets/112252001/67e32335-14f2-4c25-b92a-5b6257716578)
+
+ ![4](https://github.com/HammadRafique29/veve-scraper/assets/112252001/b4a51fc8-948c-4d40-b138-1861a056614f)
+
+
+https://github.com/HammadRafique29/veve-scraper/assets/112252001/2abfe027-04ed-459a-b633-b8d7aa89792a
+
 
 ## INSTALLATION:
  - `pip install -r requirements.txt`
@@ -16,6 +27,8 @@
 
 ## RUNNING:
  - `py veve_scrap.py`
+
+
 
 ## STORING DATA IN SQL SERVER:
 
@@ -87,8 +100,21 @@ Based on your Python code, here are the steps to set up your database and table 
          FOREIGN KEY (collectible_id) REFERENCES collectible(id),
          FOREIGN KEY (seller_id) REFERENCES seller(id)
      );
+
      ```
 
-4. **Execute the Python Code**: With the database and tables created, you can now execute your Python code. It will insert data into the tables as specified in the code.
+## Contact Me For Script:
 
-Please make sure to replace the placeholders in the SQL statements (`VARCHAR(255)`, `DECIMAL(10, 2)`, etc.) with appropriate data types and lengths based on your requirements.
+- **Skype:** [live:.cid.85ec2e63e4558292](skype:your_skype_id?chat) :calling:
+- **Upwork:** [M Hammad Rafique](https://upwork.com/freelancers/hammadr33) 
+- **Gmail:** [Python Developer 029](pythondeveloper029@gmail.com)  | [Coding Magician](codingmagician0@gmail.com)  :email:
+
+---
+
+Thank you for exploring my profile. If you have any questions or would like to discuss a project, feel free to reach out to me. I look forward to the possibility of working together!
+
+Best regards,  
+[Hammad Rafique](https://github.com/HammadRafique29)
+
+[LinkedIn](https://www.linkedin.com/in/hammad-rafique-hr029) | [GitHub](https://github.com/HammadRafique29) | [Instagram](https://www.instagram.com/hammad_rafique1449/?utm_source=qr&r=nametag)
+
